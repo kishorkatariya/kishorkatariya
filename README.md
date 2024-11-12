@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/kishorkatariya/kishorkatariya/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/kishorkatariya" alt="CoDiNg RocKs"  width="60%"/><br> </div>
+[![kishorkatariya's github stats](https://github-readme-stats.vercel.app/api?username=kishorkatariya&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorkatariya&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](#)
 
 <h1 align="center">Hi 👋, I'm Kishor Katariya</h1>
 <h3 align="center">Software Engineer | JavaScript | React JS | Node JS | Express | MERN | Exploring Next JS, Python and More</h3>
